@@ -1,6 +1,6 @@
-# uc
+# Ultimate Converter
 
-A new Flutter project.
+Ultimate Converter app is a simple and elegant conversion tool. Perfect for work, school or engineering students. This app is built using flutter
 
 ## Getting Started
 
